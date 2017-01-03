@@ -16,6 +16,6 @@ PHP设计模式学习
 2. 桥接模式(Bridge)
 3. 组合模式(Composite)
 4. 装饰器模式(Decorator)
-5. 外观模式(Pacade)
+5. 外观模式(Facade)
 6. 亨元模式(Flyweight)
 7. 代理模式(Proxy)
